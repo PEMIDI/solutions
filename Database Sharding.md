@@ -20,7 +20,7 @@ github: "true"
 
 ```python
 def get_shard(user_id):
-    # فرض کنیم ۴ تا shard داریم
+    # فرض که ما ۴ تا شارد داریم
     return user_id % 4
 
 def save_user(user):
