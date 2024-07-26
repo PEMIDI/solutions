@@ -38,7 +38,9 @@ def save_user(user):
 حسین: خواهش می‌کنم پیمان! هر وقت سوالی داشتی، من اینجام. موفق باشی! 👍
 
 
-مارال: حسین، لطفا برای صحبت‌هات رفرنس (لینک) بده.حسین: حتماً مارال! برای اطلاعات بیشتر در مورد _Database Sharding_، می‌تونید به این منابع مراجعه کنید:
+مارال: حسین، لطفا برای صحبت‌هات رفرنس (لینک) بده.
+
+حسین: حتماً مارال! برای اطلاعات بیشتر در مورد _Database Sharding_، می‌تونید به این منابع مراجعه کنید:
 
 - مقاله‌ای از **MongoDB** که مفاهیم و مثال‌های شاردینگ رو توضیح میده: [Database Sharding: Concepts & Examples - MongoDB](https://www.mongodb.com/resources/products/capabilities/database-sharding-explained)[](https://www.mongodb.com/resources/products/capabilities/database-sharding-explained)
 - آموزش **DigitalOcean** که به درک بهتر شاردینگ کمک می‌کنه: [Understanding Database Sharding | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)[](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
