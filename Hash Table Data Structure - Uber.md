@@ -46,7 +46,6 @@ github: "true"
 
 - [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
 - [Hash Function](https://www.geeksforgeeks.org/hashing-data-structure/)
-- [Collision Resolution](https://www.geeksforgeeks.org/collision-resolution-techniques-in-hashing/)
 - [Open Addressing](https://www.geeksforgeeks.org/hashing-set-3-open-addressing/)
 
 
